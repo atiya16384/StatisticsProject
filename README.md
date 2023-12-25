@@ -10,3 +10,5 @@ Draw meaningful conclusions.
 Calculated the confidence interval, mean, standard deviation etc.
 
 Received a mark of 19.5/20
+
+First year project
